@@ -14,4 +14,19 @@
 10. Andromeda - Eliver Lara
 11. Emoji Snippets - Devzstudio
 12. Community Material Theme - Mattia Astorino
+13. Apollo GraphQL 
+14. Bracket Pair Colorizer - CoenraadS
+15. JavaScript (ES6) code snippets - charalampos
+16. JavaScript and TypeScript Nightly
+17. Material Icon Theme
+18. Material Theme
+19. material theme icons
+20. Mithril Emmet support for VS Code
+21. mustache
+22. Simple React Snippets
+23. Tailwind CSS IntelliSense
+24. TSLint
+25. vscode-styled-components
+
+
 
