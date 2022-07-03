@@ -27,7 +27,8 @@
 23. Tailwind CSS IntelliSense
 24. TSLint
 25. vscode-styled-components
-26. VS Code CSS Comments
+26. VS Code CSS Comments - Ash Hitchcock
+27. SCSS IntelliSense - mrmlnc
 
 
 
