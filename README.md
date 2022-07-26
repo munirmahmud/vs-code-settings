@@ -29,6 +29,7 @@
 25. vscode-styled-components
 26. VS Code CSS Comments - Ash Hitchcock
 27. SCSS IntelliSense - mrmlnc
+28. Thunder Client - Ranga Vadhineni (like postman)
 
 
 
